@@ -24,5 +24,11 @@ $tail /var/log/messages
 [  350.908532]眠い
 [  355.467722]帰りたい
 ```
+* 削除する
+```
+$sudo rmmod myled
+```
 ### 使用した回路
+![image](https://github.com/MasayaOkada/robotsys/blob/master/IMG_7749.jpeg)
+
 
